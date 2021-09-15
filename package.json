@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Youssef Zidan",
+  "author": "LordOfTriton",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
