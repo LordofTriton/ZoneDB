@@ -626,6 +626,11 @@
       "You'll see... :(",
       "You'll find out later.",
       "That's classified information.+You'll know when you need to know."
+    ],
+    "Are you gay": [
+      "Of course not! You ever seen a gay software before?!",
+      "How can a software be gay???",
+      "Obviously, I'm not gay. I'm a fucking SOFTWARE for Windows sake!"
     ]
   }
 }
